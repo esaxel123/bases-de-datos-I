@@ -1,13 +1,15 @@
-Gestion de tiempo:
+Gestión de tiempo:
 
-honestamente tarde muchisimo en hacer este codigo, lo empece a las 4:20pm y lo termine por alrededor de las 11:50pm de la noche, pero la verdad yo estimaba mas o menos ese tiempo sinceramente, o al menos estava conciente de que tardaria muchisimo en hacerlo, aproximadamente me tarde la siguiente cantidad de tiempo en estas tareas:
 
-2 horas repasando e investigando unos conceptos
+honestamente tarde muchísimo en hacer este Código, lo empecé a las 4:20pm y lo termine por alrededor de las 11:50pm de la noche, pero la verdad yo estimaba más o menos ese tiempo sinceramente, o al menos estaba consciente de que tardaría muchísimo en hacerlo, aproximadamente me tarde la siguiente cantidad de tiempo en estas tareas:
 
-4 horas en realizar el codigo y entenderlo
 
-y una hora y media hora en retoques finales mas errores
+•	2 horas repasando e investigando unos conceptos
 
-identificacion de desafios:
+•	4 horas en realizar el Código y entenderlo
 
-para empezar yo ni siquiera sabia como leer archivos csv en java asi que toco empezar por ahi, ademas de que me sentia nervioso ya que tenia otras tareas aparte y tenia solo hasta las 12 del mediodia de mañana para entregarlo, asi que tambien estava un poco estresado, otro digamos desafio que tuve esque batallo bastante en la programacion la verdad, siento que soy un poco lento en ese sentido, pues aun no domino muy la logica de programacion o el hecho de que se me olvidan algunas cosas relevantes, asi que si me sentia muy bajo precion la verdad, casi sin la capacidad de pensar bien diria yo, pero pues para abordadr todos estos desafios pues simplemente tuve que poner mucho de mi parte e investigar bastante algunos conceptos desconocidos para mi en ese momento,pero por favor de un lapso mas largo de tiempo para hacer las tareas, de mi parte yo creo que esto es todo
+•	y una hora y media hora en retoques finales más errores
+
+
+identificación de desafíos:
+para empezar yo ni siquiera sabía cómo leer archivos CSV en java así que toco empezar por ahí, además de que me sentía nervioso ya que tenía otras tareas aparte y tenía solo hasta las 12 del mediodía de mañana para entregarlo, así que también estaba un poco estresado, otro digamos desafío que tuve es que batallo bastante en la programación la verdad, siento que soy un poco lento en ese sentido, pues aún no domino muy bien la lógica de programación o el hecho de que se me olvidan algunas cosas relevantes, así que si me sentía muy bajo presión la verdad, casi sin la capacidad de pensar bien diría yo, pero pues para abordar todos estos desafíos pues simplemente tuve que poner mucho de mi parte e investigar bastante algunos conceptos desconocidos para mí en ese momento, pero por favor de un lapso más largo de tiempo para hacer las tareas, de mi parte yo creo que esto es todo
